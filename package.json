@@ -1,0 +1,27 @@
+{
+  "name": "a-cli-registry",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "dependencies": {
+    "mixto": "",
+    "lodash.merge": "",
+    "a-cli-usage": ""
+  },
+  "devDependencies": {
+    "kosher": ""
+  },
+  "description": "A Cli Registry",
+  "keywords": [
+    "a",
+    "cli",
+    "registry"
+  ],
+  "homepage": "https://github.com/joaoafrmartins/a-cli-registry",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/a-cli-registry.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/a-cli-registry/issues"
+  }
+}
