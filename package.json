@@ -23,5 +23,7 @@
   },
   "bugs": {
     "url": "https://github.com/joaoafrmartins/a-cli-registry/issues"
-  }
+  },
+  "author": "João Afonso Martins",
+  "license": "MIT"
 }
